@@ -1,4 +1,4 @@
 TEST
 ---
 
-Hello, beautiful!
+Hello, beautiful. Have a swell day.
